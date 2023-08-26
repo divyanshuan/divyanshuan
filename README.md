@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/h2FPNj4/Divyansh22u.png" alt="Divyansh22u" border="0" width=100%>
+<img src="https://i.ibb.co/h2FPNj4/Divyansh22u.png" alt="Divyanshu Verma" border="0" width=100%>
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Divyanshu👋</span>
 </h2>
