@@ -4,7 +4,14 @@
 </h2>
 
 <p style="text-align:justify;">
-I am a student currently studying B.Tech, Computer Science(2024) in Central University of Haryana. I like exploring technologies and pretty much excited to learn new things of modern technical world.
+Hi, I’m Divyanshu Verma, a Full Stack Developer and M.Tech student in CSE at NIT Hamirpur. I hold a B.Tech in CSE from the Central University of Haryana (8.58 CGPA) and completed my 12th at LM College, Gaya with 84%. Passionate about tech, I’m always eager to learn and build impactful web applications.
+
+
+Professionally, I’ve gained diverse experience in software development. I worked as Frontend Developer at StarOps Technologies Private Limited from October 2023 to August 2024, and earlier as a Laravel Intern at Sirom Private Ltd (April 2023 - July 2023). These roles allowed me to enhance my skills in modern web technologies and frameworks while contributing to impactful projects.
+
+I have hands-on experience in various languages and technologies, including Python, C++, JavaScript, React.js, Django, Next.js, Node.js, Express.js, and Tailwind CSS. My knowledge extends to databases like MySQL and MongoDB, and I’m proficient in using tools like Linux, Docker, Git, GitHub, Postman, and Figma. My projects reflect my ability to build meaningful and robust applications, always striving to incorporate best UI practices and deliver excellent user experiences.
+
+I’m constantly seeking opportunities to learn and grow, especially in the dynamic tech world. Let’s connect and create something amazing together!
 </p>
 
 ## 🤘**Connect with Me**
