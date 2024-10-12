@@ -4,6 +4,7 @@
 </h2>
 
 
+
 <p style="text-align:justify;">
 Hi, I’m Divyanshu Verma, a Full Stack Developer and M.Tech student in CSE at NIT Hamirpur. I hold a B.Tech in CSE from the Central University of Haryana (8.58 CGPA) and completed my 12th at LM College, Gaya with 84%. Passionate about tech, I’m always eager to learn and build impactful web applications.
 
