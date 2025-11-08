@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/divyanshuan/divyanshuan/main/assets/Divyansh22u.png" alt="Divyanshu Verma" border="0" width=100%>
 <h2 align="center" style="font-weight:500;font-size:28px;margin:10px;border-bottom:1px solid gray;">
         Hi there, I'm <span style="font-family:cursive;font-weight:900;">Divyanshu👋</span>
 </h2>
